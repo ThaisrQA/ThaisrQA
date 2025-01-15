@@ -1,4 +1,4 @@
-I'm **Thais**, a Full-Stack Web Developer with over 40 projects. Now, I act as a QA, specializing in ensuring that software meets the highest standards through rigorous manual and automated testing across different products. I focus on quality, functionality, and user experience while leveraging a strong foundation in programming and problem-solving.
+I'm **Thais**, a Full-Stack Web Developer with over 40 projects. Now, I act as a QA, specializing in ensuring that software meets the highest standards through rigorous manual and automated testing across various products. I focus on quality, functionality, and user experience while leveraging a strong foundation in programming and problem-solving.
 
 ## Skills and Tools
 
